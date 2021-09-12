@@ -1,5 +1,5 @@
 # GANguya
-GANguya is a project to create a generative adversarial neural network that can generate manga characters using a dataset of ~100 images
+GANguya is a project to create a generative adversarial network (GAN) that can generate manga characters using a dataset of ~100 images
 
 
 #### Current best generation: train-14999.png
